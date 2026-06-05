@@ -42,11 +42,11 @@ The model was trained for 100 epochs, achieving outstanding generalization on th
 <p align="center">
   <img src="download (1).png" alt="Model Accuracy" width="45%">
   &nbsp; &nbsp; &nbsp;
-  <img src="images/loss_plot.png" alt="Model Loss" width="45%">
+  <img src="download (3).png" alt="Model Loss" width="45%">
 </p>
 
 <p align="center">
-  <img src="images/confusion_matrix.png" alt="Confusion Matrix" width="60%">
+  <img src="download (2).png" alt="Confusion Matrix" width="60%">
 </p>
 
 ## 💡 Business Impact & Conclusion
