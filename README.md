@@ -52,9 +52,7 @@ The model was trained for 100 epochs, achieving outstanding generalization on th
 ## 💡 Business Impact & Conclusion
 With an F1-Score of **0.95** for positive cases, this model proves highly reliable in minimizing false negatives (failing to identify a sick patient). Implementing such an AI-driven approach in clinical settings can significantly aid doctors in early diagnosis, prioritize high-risk patients, and optimize healthcare resources.
 
-## 👥 Team
+## 👤 Author
 * **Rezk Youssef Rezk**
-* **Salma Ahmed AbdElshahid**
-
 ---
 ⭐ *Feel free to explore the code in the `.ipynb` file. If you find this project helpful, a star to the repository is highly appreciated!*
