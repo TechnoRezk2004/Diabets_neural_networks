@@ -40,7 +40,7 @@ The model was trained for 100 epochs, achieving outstanding generalization on th
 *(Note: Upload your plots to the `images` folder to display them here)*
 
 <p align="center">
-  <img src="images/accuracy_plot.png" alt="Model Accuracy" width="45%">
+  <img src="download (1).png" alt="Model Accuracy" width="45%">
   &nbsp; &nbsp; &nbsp;
   <img src="images/loss_plot.png" alt="Model Loss" width="45%">
 </p>
